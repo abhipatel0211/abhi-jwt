@@ -1,0 +1,30 @@
+{
+  "name": "abhi-jwt",
+  "version": "1.0.0",
+  "description": "An npm package for jwt token",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhipatel0211/abhi-jwt.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhi Patel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/abhipatel0211/abhi-jwt/issues"
+  },
+  "homepage": "https://github.com/abhipatel0211/abhi-jwt#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
