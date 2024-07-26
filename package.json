@@ -21,10 +21,8 @@
   "homepage": "https://github.com/abhipatel0211/abhi-jwt#readme",
   "devDependencies": {
     "@types/node": "^20.14.12",
+    "jest": "^29.7.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
-  },
-  "dependencies": {
-    "jest": "^29.7.0"
   }
 }
